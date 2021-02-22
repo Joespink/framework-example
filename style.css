@@ -8,22 +8,58 @@ html {
 
 header{
     padding: 2rem;
+    font-size: 150px;
+    center: middle;
+}
+
+img.The_Pigeon_Detectives{
+  border: 10px solid black;
+
+}
+
+img.The_Detectives{
+  width:80%;
+  height:5000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+
+  img.Detectives{
+    width:80%;
+    height:80%;
 }
 
 main{
-    width: 75%;
+    width: 70%;
     float: left;
-    padding: 2rem;
+    font-size:60px;
+    background-color: #777788;
+
+}
+
+body{
+    background-color: #777788;
 }
 
 aside{
-    width: 25%;
-    float: left;
+    width: 30%;
+    float: right;
     padding: 2rem;
+    font-size:30px;
+    text-align: right;
+    background-color: #777788;
 }
+
 
 footer{
     clear: both;
     padding: 2rem;
     text-align: center;
+    background-color: #777788;
+    font-size:60px;
+    font-weight: bold;
+}
+
+svg.bd-placeholder-img {
+  background-image: url("https://th.bing.com/th/id/R91cc523bfcf1a8daf5bcf9e490556955?rik=J3uyV1dfKencmw&riu=http%3a%2f%2fwww.fortitudemagazine.co.uk%2fwp-content%2fuploads%2f2013%2f02%2fThe_Pigeon_Detectives-1024x576.jpg&ehk=2WN9It68%2ftsKJ7%2fZi4rcZSLGfkqEpdm9aC1AU5sTnvo%3d&risl=&pid=ImgRaw")
 }
